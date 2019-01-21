@@ -1,6 +1,6 @@
 {
   "name": "@chingu-labs/logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Official Chingu logger for JavaScript",
   "main": "src/index.js",
   "author": "Musaab Elfaqih <musabelfaki@gmail.com>",
